@@ -14,3 +14,9 @@ p{
     font-size: 30px;
     text-align: justify;
 }
+
+.logo {
+   width: 200px;
+   height: 200px;
+   margin: 2px; /*insere um espaçamento externo ao elemento, a 
+   padding: 2px; /*define uma dist
