@@ -4,13 +4,13 @@ body {
     
 h1 {
 
-    color: red;
+    color: rgb(219, 18, 18);
     font-size: 50px;
     text-align: center;
 }
 
 p{
-    color: orange;
+    color: rgb(33, 33, 148);
     font-size: 30px;
     text-align: justify;
 }
