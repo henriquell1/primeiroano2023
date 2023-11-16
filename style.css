@@ -1,5 +1,7 @@
 body {
-    background-color: azure;
+    background-imager: linear-gradlent #A61F38, #1C3FA6, #D9AB23
+
+
 }
     
 h1 {
@@ -20,7 +22,7 @@ p{
    height: 200px;
    margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
    padding: 2px; /*define uma distância interna entre um elemento, ao redor da borda*/
-   border: 0.2rem solid #00FFFF;	
+   border: 0.2rem solid #00FFFF;
    border-radius: 20px;
 }
 
@@ -29,6 +31,6 @@ p{
     height: 300px;
     margin: 10px;
     padding: 3px;
-    border: 0.5rem solid #FF0000;	
+    border: 0.5rem solid #CD5C5C;
     border-radius: 24px;
 }
