@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-imagem: linear-gradlent #A61F38, #1C3FA6, #D9AB23;
+    background-image: linear-gradlent #A61F38, #1C3FA6, #D9AB23;
 }
    
 h1 {
@@ -13,7 +13,7 @@ h1 {
 h2 {
     color: white;
     font-size: 35px;
-    font-align: center;
+    text-align: center;
 }
 
 p{
