@@ -3,6 +3,12 @@ body {
     background-image: linear-gradlent #A61F38, #1C3FA6, #D9AB23;
 }
    
+header {
+    background-color: #b7bcde;
+    border-bottom: 2px solid #677b3e;
+
+
+    
 h1 {
 
     color: rgb(80, 168, 250);
