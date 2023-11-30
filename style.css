@@ -10,7 +10,7 @@ header {
 }
 
  .cabecalho {
-    display: -flex;
+    display: flex;
     justify-content: space-around;
  }
 
