@@ -44,3 +44,9 @@ p{
     border: 0.5rem solid #CD5C5C;
     border-radius: 24px;
 }
+
+.lista{
+    font-size: 30px;
+    color: black
+    list-style: none;
+}
