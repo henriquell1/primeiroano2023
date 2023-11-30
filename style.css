@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-image: linear-gradlent #A61F38, #1C3FA6, #D9AB23;
+    background-image: linear-gradient (#A61F38, #1C3FA6, #D9AB23);
 }
    
 header {
@@ -33,8 +33,8 @@ p{
 }
 
 .logo {
-   width: 500px;
-   height: 500px;
+   width: 200px;
+   height: 200px;
    margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
    padding: 2px; /*define uma distância interna entre um elemento, ao redor da borda*/
    border: 0.2rem solid #00FFFF;
